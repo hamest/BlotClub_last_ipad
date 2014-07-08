@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>466041A0-6EC4-45BA-A5BC-7A5AA042135F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlotClub</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FB3CFDC-3081-4B85-8B8D-78077DB4FA4D</key>
+		<string>https://github.com/hamest/BlotClub_last_ipad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Connector/BlotClub.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FB3CFDC-3081-4B85-8B8D-78077DB4FA4D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hamest/BlotClub_last_ipad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FB3CFDC-3081-4B85-8B8D-78077DB4FA4D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FB3CFDC-3081-4B85-8B8D-78077DB4FA4D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlotClub_last_ipad</string>
+		</dict>
+	</array>
+</dict>
+</plist>

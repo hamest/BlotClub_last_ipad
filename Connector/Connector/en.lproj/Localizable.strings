@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  BlotClub
+
+  Created by Hamest Tadevosyan on 4/17/14.
+  Copyright (c) 2014 A51 Intgerated. All rights reserved.
+*/
+
+"GREETING" = "Hello";
+"GET_CHIPS" = "GET CHIPS";
+"LEVEL" = "LEVEL";
+//"SEND_SMS" = "Отправь СМС с текстом";
+//"SEND_SMS_FS" = "24";
+//"TO_NUMBER" = "на номер 3579";
+//"AND_GET" = "и получи";
+//"SMS_PRICE" = "стоимость сообщения 490 драм";
+"CLOSE" = "CLOSE";
+"JOIN_TABLE" = "TAKE SIT";
+"MSG_TOURNAMENTS_DENY" = "TOURNAMENTS ARE AVAILABLE AFTER THE 5-TH LEVEL";
+"MSG_TOURNAMENTS_EMPTY" = "NO AVAILABLE TOURNAMENTS";
+"MSG_PROF_CLUB_DENY" = "PROFFESIONAL CLUB IS AVAILABLE AFTER THE 21-ST LEVEL";
+"EXIT" = "Exit";
+"EXIT_CAPS" = "EXIT";
+"EXIT_GAME" = "EXIT GAME?";
+"EXIT_GAME_RATING" = "This will lead to a drop in the rating by 20 points!";
+"SCORE" = "Score";
+"LAST_HAND" = "Last hand";
+"READY" = "READY";
+"I_AM_READY" = "I AM READY";
+"YES" = "YES";
+"NO" = "NO";
+"PASS" = "PASS";
+"MOVE" = "OK";
+"CONTRA" = "CONTRA";
+"RECONTRA" = "RECONTRA";
+"TERZ" = "Terz";
+"BELOTE" = "BLOT";
+"REBELOTE" = "REBLOT";
+"BLIND" = "BLIND/";
+"BITA" = "LAST HAND";
+"WINNERS" = "YOU WON";
+"LOSERS" = "YOU LOST";
+"PLAY_AGAIN" = "PLAY AGAIN";
+"NEWBIE" = "Newbie";
+"Advanced" = "Advanced";
+"Professional" = "Professional";
+"Expert" = "Expert";
+"Guru" = "Guru";
+"LB_ARCADE" = "TABLES";
+"LB_TOURN" = "TOURNAMENTS";
+"LB_PROF" = "PROF CLUB";
+//"BAZARTTFS" = "24";
+//"BUT22FS" = "22";
+"refresh" = "refresh";
+"Announce" = "Announce";
+
+"turn" = "TURN";
+
+"FOOTER_TEXT_STRATEGY" = "Blot strategy";
+//"FOOTER_LINK_STRATEGY" = "http://www.blotclub.am/page/strategy/";
+"FOOTER_TEXT_RULES" = "Blot rules";
+//"FOOTER_LINK_RULES" = "http://www.blotclub.am/page/rules";
+"FOOTER_TEXT_BLOG" = "Blog";
+//"FOOTER_LINK_BLOG" = "http://www.blotclub.am/page/blog";
+
+"GAME_TOTAL" = "Total games";
+"GAME_WIN" = "Win games";
+"GAME_LOST" = "Loss games";
+"GAME_UNFINISHED" = "Unfinished games";
+
+"GAME_EXIT" = "Exit";
+"GAME_SCORE" = "Score";
+"GAME_LAST_HAND" = "Last hand";
+
+"TOTAL_SCORE" = "Total \nscore";
+"RATE" = "Rate";
+
+"Connection_Lost" ="";
+"Reconnect" ="Connection lost\nclick \"OK\" to reconnect";
+
+"MSG_NOT_ENOUGH_CREDITS" = "Not enough funds.";
+"MSG_RESTARTING" = "Dear players, server is restarting, please wait.";
+"REJOIN_GAME" = "Would you like to join your previous game?";

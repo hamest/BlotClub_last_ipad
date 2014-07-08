@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[User setSfsUser:]:User.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameManager onUserEnterRoom:]:GameManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController didShareCards:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController updateReadyState:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseParams">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController didPlayerMoved:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Globals sharedGlobals].mySeat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController didFinishAnimation:]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController didTakeAllCards:]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameManager onExtensionResponse:]:GameManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseParams">
+            </PersistentString>
+            <PersistentString
+               value = "[Globals sharedGlobals].permitted ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameManager onUserVariablesUpdate:]:GameManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController didUpdateBazarState:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Globals sharedGlobals].mySeat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameManager onRoomJoin:]:GameManager.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

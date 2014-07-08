@@ -1,0 +1,11 @@
+<SmartFoxConfig>
+	<ip>95.211.197.81</ip>
+	<port>9933</port>
+    <udpHost>95.211.197.81</udpHost>
+	<udpPort>9933</udpPort>
+	<blueBoxIpAddress>95.211.197.81</blueBoxIpAddress>
+	<blueBoxPort>8080</blueBoxPort>
+	<httpPort>8080</httpPort>
+	<httpPollSpeed>750</httpPollSpeed>
+	<zone>Blot</zone>
+</SmartFoxConfig>

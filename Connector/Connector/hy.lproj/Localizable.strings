@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  BlotClub
+
+  Created by Hamest Tadevosyan on 4/17/14.
+  Copyright (c) 2014 A51 Intgerated. All rights reserved.
+*/
+"GREETING" = "Ողջույն";
+"GET_CHIPS" = "ԳՆԵԼ ՉԻՊԵՐ";
+"LEVEL" = "Մակարդակ";
+//"SEND_SMS" = "Ուղարկեք SMS հետեւյալ տեքստով";
+//"SEND_SMS_FS" = "24";
+//"TO_NUMBER" = "на номер 3579";
+//"AND_GET" = "и получи";
+//"SMS_PRICE" = "стоимость сообщения 490 драм";
+"CLOSE" = "ՓԱԿԵԼ";
+"JOIN_TABLE" = "ՆՍՏԵԼ";
+"MSG_TOURNAMENTS_DENY" = "ՄՐՅՈՒՄՆԵՐԸ ՀԱՍԱՆԵԼԻ ԵՆ 5-ՐԴ ՄԱԿԱՐԴԱԿԻՅ ԲԱՐՁՐ";
+"MSG_TOURNAMENTS_EMPTY" = "Այսօր մրցաշարեր չկան";
+"MSG_PROF_CLUB_DENY" = "ԱԿՈՒՄԲԸ ՀԱՍԱՆԵԼԻ Է 21-ՐԴ ՄԱԿԱՐԴԱԿԻՅ ԲԱՐՁՐ";
+"EXIT" = "Ելք";
+"EXIT_CAPS" = "ԵԼՔ";
+"EXIT_GAME" = "ԼՔԷԼ ԽԱՂԸ?";
+"EXIT_GAME_RATING" = "Դա կհանգեցնի 20 վարկանիշաին միավորի կորուստի!";
+"SCORE" = "Հաշիվ";
+"LAST_HAND" = "Վերջին ձեռք";
+"READY" = "ՊԱՏՐԱՍՏ";
+"I_AM_READY" = "ԵՍ ՊԱՏՐԱՍՏ ԵՄ";
+"YES" = "Ա3Ո";
+"NO" = "ՈՉ";
+"PASS" = "ՓԱՍ";
+"MOVE" = "ՔԱ3Լ";
+"CONTRA" = "ԿՈՆՏՐԱ";
+"RECONTRA" = "ՐԵԿՈՆՏՐԱ";
+"TERZ" = "Թերզ";
+"BELOTE" = "ԲԼՈՏ";
+"REBELOTE" = "ՐԵԲԼՈՏ";
+"BLIND" = "ԿՈՆ/";
+"BITA" = "ՎԵՐՋԻՆ ՁԵՌՔ";
+"WINNERS" = "ՀԱՂԹԱՆԱԿ";
+"LOSERS" = "ՊԱՐՏՈՒԹՅՈՒՆ";
+"PLAY_AGAIN" = "ԽԱՂԱԼ ՆՈՐԻՅ";
+"NEWBIE" = "Սկսնակ";
+"Advanced" = "Սիրող";
+"Professional" = "Մասնագետ";
+"Expert" = "Էքսպերտ";
+"Guru" = "Աստղ";
+"LB_ARCADE" = "ՍԵՂԱՆՆԵՐ";
+"LB_TOURN" = "ՄՐՑԱՇԱՐԵՐ";
+"LB_PROF" = "ՎԱՐՊԵՏՆԵՐ";
+//"BAZARTTFS" = "18";
+//"BUT22FS" = "16";
+"refresh" = "վերաբեռնել";
+"Announce" = "Հայտարարել";
+
+"turn" = "ՔԱ3Լ";
+
+"FOOTER_TEXT_STRATEGY" = "Ռազմավարություն";
+//"FOOTER_LINK_STRATEGY" = "http://www.blotclub.am/page/strategy/";
+"FOOTER_TEXT_RULES" = "Խաղի կանոնները";
+//"FOOTER_LINK_RULES" = "http://www.blotclub.am/page/rules";
+"FOOTER_TEXT_BLOG" = "Բլոգ";
+//"FOOTER_LINK_BLOG" = "http://www.blotclub.am/page/blog";
+
+"GAME_TOTAL" = "Խաղեր";
+"GAME_WIN" = "Հաղթանակ";
+"GAME_LOST" = "Պարտություն";
+"GAME_UNFINISHED" = "Անավարտ խաղեր";
+
+"GAME_EXIT" = "Ելք";
+"GAME_SCORE" = "Հաշիվ";
+"GAME_LAST_HAND" = "Վերջին ձեռ";
+
+"TOTAL_SCORE" = "Հաշիվ";
+"RATE" = "Դրույք";
+
+"Connection_Lost" ="";
+"Reconnect" ="Կապն ընդատվեց\nմիանալու համար սեղմեք \"OK\"";
+
+
+"MSG_NOT_ENOUGH_CREDITS" = "Դուք չունեք բավարար միջոցներ:";
+"MSG_RESTARTING" = "Հարգելի խաղացողներ, սերվերը վերբեռնվում է, խնդրում ենք սպասել:";
+"REJOIN_GAME" = "Ցանկանում եք շարունակել նախորդ խաղը?";

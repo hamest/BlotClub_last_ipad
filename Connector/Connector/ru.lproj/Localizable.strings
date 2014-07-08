@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  BlotClub
+
+  Created by Hamest Tadevosyan on 4/17/14.
+  Copyright (c) 2014 A51 Intgerated. All rights reserved.
+*/
+"GREETING" = "Здравствуйте";
+"GET_CHIPS" = "КУПИТЬ ФИШКИ";
+"LEVEL" = "Уровень";
+//"SEND_SMS" = "Отправь СМС с текстом";
+//"SEND_SMS_FS" = "24";
+//"TO_NUMBER" = "на номер 3579";
+//"AND_GET" = "и получи";
+//"SMS_PRICE" = "стоимость сообщения 490 драм";
+"CLOSE" = "ЗАКРЫТЬ";
+"JOIN_TABLE" = "СЕСТЬ ЗА СТОЛ";
+"MSG_TOURNAMENTS_DENY" = "ТУРНИРЫ ДОСТУПНЫ ПОСЛЕ 5-ГО УРОВНЯ";
+"MSG_TOURNAMENTS_EMPTY" = "НА СЕГОДНЯ ТУРНИРОВ НЕТ";
+"MSG_PROF_CLUB_DENY" = "ПРОФ КЛУБ ДОСТУПЕН ПОСЛЕ 21-ГО УРОВНЯ";
+"EXIT" = "Выход";
+"EXIT_CAPS" = "ВЫХОД";
+"EXIT_GAME" = "ПОКИНУТЬ ИГРУ?";
+"EXIT_GAME_RATING" = "Ето приведет к потере 20 очков рейтинга!";
+"SCORE" = "Счет";
+"LAST_HAND" = "Последняя взятка";
+"READY" = "ГОТОВ";
+"I_AM_READY" = "Я ГОТОВ";
+"YES" = "ДА";
+"NO" = "НЕТ";
+"PASS" = "ПАСС";
+"MOVE" = "ХОД";
+"CONTRA" = "КОНТРА";
+"RECONTRA" = "РЕКОНТРА";
+"TERZ" = "Терц";
+"BELOTE" = "БЛОТ";
+"REBELOTE" = "РЕБЛОТ";
+"BLIND" = "СТАВКА/";
+"BITA" = "ПОСЛЕДНЯЯ ВЗЯТКА";
+"WINNERS" = "ПОБЕДА";
+"LOSERS" = "ПРОИГРЫШ";
+"PLAY_AGAIN" = "СЫГРАТЬ ЕЩЕ";
+"NEWBIE" = "Новичок";
+"Advanced" = "Любитель";
+"Professional" = "Профессионал";
+"Expert" = "Эксперт";
+"Guru" = "Гуру";
+"LB_ARCADE" = "СТОЛЫ";
+"LB_TOURN" = "ТУРНИРЫ";
+"LB_PROF" = "ПРОФИ КЛУБ";
+//"BAZARTTFS" = "24";
+//"BUT22FS" = "22";
+"refresh" = "обновить";
+"Announce" = "Объявите";
+
+"turn" = "ХОД";
+
+
+"FOOTER_TEXT_STRATEGY" = "Стратегия блота";
+//"FOOTER_LINK_STRATEGY" = "http://www.blotclub.am/page/strategy/";
+"FOOTER_TEXT_RULES" = "Правила блота";
+//"FOOTER_LINK_RULES" = "http://www.blotclub.am/page/rules";
+"FOOTER_TEXT_BLOG" = "Блог";
+//"FOOTER_LINK_BLOG" = "http://www.blotclub.am/page/blog";
+
+"GAME_TOTAL" = "Партии";
+"GAME_WIN" = "Побед";
+"GAME_LOST" = "Поражений";
+"GAME_UNFINISHED" = "Незавершенных партий";
+
+"GAME_EXIT" = "Выход";
+"GAME_SCORE" = "Счёт";
+"GAME_LAST_HAND" = "Последняя взятка";
+
+"TOTAL_SCORE" = "Общий счет";
+"RATE" = "Ставка";
+
+"Connection_Lost" ="";
+"Reconnect" ="Соединение потеряно\nнажмите \"OK \", чтобы восстановить";
+
+
+
+"MSG_NOT_ENOUGH_CREDITS" = "Недостаточно средств.";
+"MSG_RESTARTING" = "Уважаемые игроки, сервер перезагружается, пожалуйста подождите.";
+"REJOIN_GAME" = "Желаете доиграть на предыдущем столе?";
